@@ -11,7 +11,7 @@
 }
 .winButton-iRh8-Z:not(:last-child)::after {
   content: "";
-  border-radius: 50px;
+  border-radius: 500px;
   pointer-events: fill;
 }
 .winButtonClose-1HsbF- {
