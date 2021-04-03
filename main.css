@@ -11,7 +11,7 @@
 }
 .winButton-iRh8-Z:not(:last-child)::after {
   content: "";
-  border-radius: 500px;
+  border-radius: 50px;
   pointer-events: fill;
 }
 .winButtonClose-1HsbF- {
@@ -1530,7 +1530,7 @@ div:not(.headerFill-adLl4x)
 }
 .sidebar-CFHs9e {
   padding: 60px 0 35px 50px;
-  width: 260px;
+  width: 3000px;
 }
 .sidebar-CFHs9e > div > .item-PXvHYJ,
 #bd-settings-sidebar .ui-tab-bar-item {
